@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e8f1f07-a28b-4cfe-9864-ca18e7184f39" name="Default Changelist" comment="">
+    <list default="true" id="0e8f1f07-a28b-4cfe-9864-ca18e7184f39" name="Default Changelist" comment="이미지파일 수정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ipad-air.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/ipad-air.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/companies/1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/companies/1.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/companies/4.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/companies/4.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/imac-ipad.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/imac-ipad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/imac-ipad@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/imac-ipad@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ipad-air@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ipad-air@2x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/screenshots/1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/screenshots/1.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/screenshots/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/screenshots/2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/screenshots/3.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/screenshots/3.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -23,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1389">
-              <caret line="479" column="49" selection-start-line="479" selection-start-column="41" selection-end-line="479" selection-end-column="49" />
+            <state relative-caret-position="207">
+              <caret line="902" column="54" selection-start-line="902" selection-start-column="54" selection-end-line="902" selection-end-column="54" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -50,7 +53,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>timeline scroller</find>
       <find>timeline</find>
       <find>team</find>
       <find>visibility</find>
@@ -80,6 +82,7 @@
       <find>owl</find>
       <find>PNG</find>
       <find>ipad-air</find>
+      <find>screenshots</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -125,6 +128,12 @@
               <item name="KIRBS_PT" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="KIRBS_PT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KIRBS_PT" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -167,7 +176,7 @@
       <workItem from="1566311972829" duration="24348000" />
       <workItem from="1566356501395" duration="129000" />
       <workItem from="1566356888397" duration="11648000" />
-      <workItem from="1566369300626" duration="436000" />
+      <workItem from="1566369300626" duration="1375000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1566367924943</created>
@@ -190,11 +199,25 @@
       <option name="project" value="LOCAL" />
       <updated>1566369539306</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="PNG 수정">
+      <created>1566369847511</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1566369847511</updated>
+    </task>
+    <task id="LOCAL-00005" summary="이미지파일 수정">
+      <created>1566370008956</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1566370008956</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48184000" />
+    <option name="totallyTimeSpent" value="49123000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -225,7 +248,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="PNG 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="PNG 수정" />
+    <MESSAGE value="이미지파일 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="이미지파일 수정" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/background-images/2.jpg">
@@ -393,10 +417,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/imac-ipad@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1389">
-          <caret line="479" column="49" selection-start-line="479" selection-start-column="41" selection-end-line="479" selection-end-column="49" />
+        <state relative-caret-position="207">
+          <caret line="902" column="54" selection-start-line="902" selection-start-column="54" selection-end-line="902" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
