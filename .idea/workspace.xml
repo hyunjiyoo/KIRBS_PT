@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e8f1f07-a28b-4cfe-9864-ca18e7184f39" name="Default Changelist" comment="이미지파일 수정">
+      <change afterPath="$PROJECT_DIR$/images/companies/1-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/companies/4-1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/companies/1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/companies/1.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/companies/4.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/companies/4.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/imac-ipad.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/imac-ipad.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/imac-ipad@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/imac-ipad@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ipad-air@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ipad-air@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/screenshots/1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/screenshots/1.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/screenshots/3.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/screenshots/3.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/companies/1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/companies/4.PNG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="902" column="54" selection-start-line="902" selection-start-column="54" selection-end-line="902" selection-end-column="54" />
+            <state relative-caret-position="249">
+              <caret line="181" column="43" selection-start-line="181" selection-start-column="43" selection-end-line="181" selection-end-column="43" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -54,7 +51,6 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>timeline</find>
-      <find>team</find>
       <find>visibility</find>
       <find>test</find>
       <find>pic-conta</find>
@@ -82,6 +78,7 @@
       <find>owl</find>
       <find>PNG</find>
       <find>ipad-air</find>
+      <find>team</find>
       <find>screenshots</find>
     </findStrings>
   </component>
@@ -132,7 +129,7 @@
               <item name="KIRBS_PT" type="b2602c69:ProjectViewProjectNode" />
               <item name="KIRBS_PT" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="companies" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,7 +173,7 @@
       <workItem from="1566311972829" duration="24348000" />
       <workItem from="1566356501395" duration="129000" />
       <workItem from="1566356888397" duration="11648000" />
-      <workItem from="1566369300626" duration="1375000" />
+      <workItem from="1566369300626" duration="1918000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1566367924943</created>
@@ -213,11 +210,25 @@
       <option name="project" value="LOCAL" />
       <updated>1566370008956</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="이미지파일 수정">
+      <created>1566370698332</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1566370698332</updated>
+    </task>
+    <task id="LOCAL-00007" summary="이미지파일 수정">
+      <created>1566371056450</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1566371056450</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49123000" />
+    <option name="totallyTimeSpent" value="49666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -420,10 +431,19 @@
     <entry file="file://$PROJECT_DIR$/images/imac-ipad@2x.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/team/2@2x.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/team/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/companies/1-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="902" column="54" selection-start-line="902" selection-start-column="54" selection-end-line="902" selection-end-column="54" />
+        <state relative-caret-position="249">
+          <caret line="181" column="43" selection-start-line="181" selection-start-column="43" selection-end-line="181" selection-end-column="43" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
